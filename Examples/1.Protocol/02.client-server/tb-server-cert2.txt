@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=JP, ST=TOKYO, L=TOKYO, O=WolfSSL Japan, OU=Consulting, CN=www.wolfssl.com/emailAddress=info@wolfssl.com
+        Validity
+            Not Before: Jun 10 05:35:21 2021 GMT
+            Not After : Mar  6 05:35:21 2024 GMT
+        Subject: C=JP, ST=TOKYO, L=TOKYO, O=WolfSSL Japan, OU=Support, CN=www.wolfssl.com/emailAddress=info@wolfssl.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e2:88:b5:94:49:9f:02:6d:d5:e1:b6:b9:42:2f:
+                    20:25:8e:b3:1c:c6:1a:33:78:a8:26:9d:36:49:dd:
+                    04:20:c5:23:de:25:d5:6f:ca:b0:af:81:89:fd:34:
+                    5b:25:05:5c:d5:55:21:6c:42:56:14:e6:4c:b8:dc:
+                    83:ea:27:84:94:3d:8f:cf:6d:ee:bb:54:85:b2:48:
+                    9a:2c:ce:50:d0:73:df:cd:c9:7e:01:36:5e:f2:41:
+                    0a:69:48:ca:b3:8d:8e:9a:5a:fb:e9:36:0c:51:a5:
+                    2f:3e:df:2d:56:5a:64:80:f8:e8:59:fa:07:e5:15:
+                    01:7c:da:81:96:45:55:47:47:f1:c1:2c:e1:52:fe:
+                    5a:f6:63:4f:60:d0:90:8c:31:d8:76:c1:60:7c:06:
+                    3a:cc:f6:13:18:2a:0a:5e:d6:04:f6:d8:f1:78:28:
+                    f3:02:30:1a:13:6a:28:a8:59:a6:2e:44:07:71:49:
+                    58:2f:22:2a:6f:e6:72:08:98:67:ab:86:9b:6b:7e:
+                    0c:ab:ed:af:13:1d:07:df:98:ad:d7:1b:e3:3b:e0:
+                    56:d9:a0:9d:7f:7b:24:dd:ef:13:1a:75:fc:c6:51:
+                    e0:67:c0:47:70:e3:dd:dc:80:87:d3:a2:c0:83:48:
+                    04:eb:d1:9e:34:19:ed:c0:ee:a1:03:9b:aa:c1:d4:
+                    c8:a5
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         5e:cc:34:2d:4d:3f:b7:3c:25:1e:b8:d3:2c:91:ca:cb:0c:e4:
+         3a:b3:8a:78:57:e1:27:56:00:e5:e3:03:9d:a7:37:d0:ef:7e:
+         6e:f6:62:a4:f6:2b:73:93:53:12:2b:10:a4:72:0e:0c:18:e1:
+         1e:54:8c:a4:79:b5:e8:ba:0a:6b:48:89:2c:b8:8b:9e:9a:e5:
+         e1:7e:e5:63:1f:cd:79:06:be:bc:40:71:b7:53:fa:57:a2:09:
+         0a:62:2f:79:e6:dd:11:3f:d9:59:e2:3c:af:fa:b7:a8:67:f6:
+         54:a9:c5:1b:60:a9:c4:bf:1f:85:f5:92:98:3e:c9:08:9a:b7:
+         85:d7:fd:b7:eb:b0:ae:10:a9:a1:bc:10:bd:f1:27:a9:11:27:
+         9a:cb:7a:88:bf:8f:3e:cf:ca:9c:f7:c0:b2:96:54:45:70:9a:
+         bf:0f:2d:e3:53:f4:ba:a1:42:98:7f:99:58:39:65:a1:2b:83:
+         74:62:d8:6d:21:11:eb:0c:82:50:22:a4:c3:88:52:7c:b3:c4:
+         e9:38:75:11:fe:4a:47:26:37:ca:56:d7:b5:a9:d9:66:d2:e3:
+         90:62:1e:35:6d:82:b0:00:2c:c4:ef:d9:d2:69:93:c9:90:52:
+         36:10:4d:3c:85:63:36:64:35:84:0b:c3:55:6f:84:47:96:ad:
+         6b:56:7d:22
+-----BEGIN CERTIFICATE-----
+MIIDnTCCAoUCAQEwDQYJKoZIhvcNAQELBQAwgZUxCzAJBgNVBAYTAkpQMQ4wDAYD
+VQQIDAVUT0tZTzEOMAwGA1UEBwwFVE9LWU8xFjAUBgNVBAoMDVdvbGZTU0wgSmFw
+YW4xEzARBgNVBAsMCkNvbnN1bHRpbmcxGDAWBgNVBAMMD3d3dy53b2xmc3NsLmNv
+bTEfMB0GCSqGSIb3DQEJARYQaW5mb0B3b2xmc3NsLmNvbTAeFw0yMTA2MTAwNTM1
+MjFaFw0yNDAzMDYwNTM1MjFaMIGSMQswCQYDVQQGEwJKUDEOMAwGA1UECAwFVE9L
+WU8xDjAMBgNVBAcMBVRPS1lPMRYwFAYDVQQKDA1Xb2xmU1NMIEphcGFuMRAwDgYD
+VQQLDAdTdXBwb3J0MRgwFgYDVQQDDA93d3cud29sZnNzbC5jb20xHzAdBgkqhkiG
+9w0BCQEWEGluZm9Ad29sZnNzbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiiLWUSZ8CbdXhtrlCLyAljrMcxhozeKgmnTZJ3QQgxSPeJdVvyrCv
+gYn9NFslBVzVVSFsQlYU5ky43IPqJ4SUPY/Pbe67VIWySJoszlDQc9/NyX4BNl7y
+QQppSMqzjY6aWvvpNgxRpS8+3y1WWmSA+OhZ+gflFQF82oGWRVVHR/HBLOFS/lr2
+Y09g0JCMMdh2wWB8BjrM9hMYKgpe1gT22PF4KPMCMBoTaiioWaYuRAdxSVgvIipv
+5nIImGerhptrfgyr7a8THQffmK3XG+M74FbZoJ1/eyTd7xMadfzGUeBnwEdw493c
+gIfTosCDSATr0Z40Ge3A7qEDm6rB1MilAgMBAAEwDQYJKoZIhvcNAQELBQADggEB
+AF7MNC1NP7c8JR640yyRyssM5DqzinhX4SdWAOXjA52nN9Dvfm72YqT2K3OTUxIr
+EKRyDgwY4R5UjKR5tei6CmtIiSy4i56a5eF+5WMfzXkGvrxAcbdT+leiCQpiL3nm
+3RE/2VniPK/6t6hn9lSpxRtgqcS/H4X1kpg+yQiat4XX/bfrsK4QqaG8EL3xJ6kR
+J5rLeoi/jz7Pypz3wLKWVEVwmr8PLeNT9LqhQph/mVg5ZaErg3Ri2G0hEesMglAi
+pMOIUnyzxOk4dRH+SkcmN8pW17Wp2WbS45BiHjVtgrAALMTv2dJpk8mQUjYQTTyF
+YzZkNYQLw1VvhEeWrWtWfSI=
+-----END CERTIFICATE-----
