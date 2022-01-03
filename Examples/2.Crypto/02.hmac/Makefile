@@ -1,17 +1,17 @@
-CC = gcc
-#CC = clang
-#SSL = OPENSSL
-SSL = WOLFSSL
-DEBUG= no
-TARGET   = sha256
+CC        = gcc
+#CC       = clang
+#SSL      = OPENSSL
+SSL       = WOLFSSL
+DEBUG     = no
+TARGET    = hmac
 
-COMM_SOURCE = ../../common/main.c
 
 INSTALL_DIR = /usr/local
-SOURCE      = ./sha256.c
+SOURCE    = ./hmac.c
 COMM_SOURCE = ../../common/main.c
-OBJ         = $(SOURCE:.c=.o)
-COMM_OBJ    = $(COMM_SOURCE:.c=.o)
+
+OBJ       = $(SOURCE:.c=.o)
+COMM_OBJ  = $(COMM_SOURCE:.c=.o)
 
 ifeq ($(SSL),OPENSSL)
 INCLUDE   = -I../../include
