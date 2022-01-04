@@ -215,7 +215,7 @@ There are two OIDs (Object IDs) for RSA padding in X.509: rsaEncryption and RSAS
 
 <br> <br>
 | Algorithm | Signature scheme | ID |
-|: ---- |: ----: |: ----: |
+|:--- |:---: |:---: |
 | RSASSA PKCS # 1 v1.5 | | |
 | | rsa_pcks1_sha256 | 0x0401 |
 | | rsa_pcks1_sha384 | 0x0501 |

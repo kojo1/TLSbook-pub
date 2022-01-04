@@ -19,9 +19,9 @@ The platform-dependent parts and the corresponding source files are summarized b
 | Exclusive control | wc_port.c |
 | File system | wc_port.h |
 | Network | wolfio.c |
-Real time clock | wc_port.h |
+| Real time clock | wc_port.h |
 | Heap memory | types.h, memory.c |
-Random seeds | random.c |
+| Random seeds | random.c |
 
 
 ### 12.2 Thread / task exclusive control

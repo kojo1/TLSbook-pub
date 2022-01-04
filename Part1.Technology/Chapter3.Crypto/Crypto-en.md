@@ -251,7 +251,7 @@ Table 3-4-1 summarizes the main TLS symmetric-key cryptosystems, including those
 
 <br> <br>
 | Method | Algorithm | Usage mode | Block length <br> (Bit) | Key length <br> (Bit) | Authentication tag length <br> (Bit) | TLS1.2 or earlier | TLS1.3 | Remarks |
-|-|-|:-: |:-: |: ----: |:-: |:-: |-|-|
+|---|---|:---: |:---: |:---: |:---: |:---: |---|---|
 | Block cipher ||||||||
 || 3DES_EDE | CBC | 64 | 168 |-| ✓ || RFC5246 |
 || Camellia | CBC | 128 | 128/256 |-| ✓ || RFC5932 |
